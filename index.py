@@ -38,3 +38,10 @@ greetings_with_names = f"Hello {} and {}"
 
 new_var_with_all_names = greetings_with_name.format("Jeffrey", "Jean-Paul")
 print(new_var_with_all_names)
+
+# another example
+
+long_phrase = "Hello {}, {}"
+
+random1 = longphrase.format("Jeffrey", "Ryan")
+print(random1)
