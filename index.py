@@ -45,3 +45,8 @@ long_phrase = "Hello {}, {}"
 
 random1 = longphrase.format("Jeffrey", "Ryan")
 print(random1)
+
+# input function will always give you back a string, you cannot do mathematics on strings
+# the first two functions to know is int and input
+# input calls out to the user for them to interact
+# int changes the type of operator to integer
